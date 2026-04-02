@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kshitij%20Pandey&fontSize=70&animation=fadeIn" width="100%" />
+  <h1>Hi, I'm Kshitij Pandey 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -48,12 +49,12 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=tokyonight&count_private=true" alt="Kshitij's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=dark" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=dark" alt="Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=dark" alt="Streak" />
 </div>
----
 
 ## 🐍 Contribution Snake
 <div align="center">
