@@ -45,21 +45,14 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=tokyonight" alt="Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=tokyonight&count_private=true" alt="Kshitij's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=tokyonight" alt="Streak Stats" />
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
