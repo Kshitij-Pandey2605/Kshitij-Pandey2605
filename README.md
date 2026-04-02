@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+
 
 ---
 
@@ -49,11 +47,11 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kshitij-Pandey2605&show_icons=true&theme=algolia&include_all_commits=true" alt="Stats Card" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=dark" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kshitij-Pandey2605&layout=compact&theme=algolia" alt="Languages Card" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij-Pandey2605&theme=algolia" alt="Streak Card" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -63,9 +61,9 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kshitij-Pandey2605&theme=radical&no-frame=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kshitij-Pandey2605&theme=alduin&no-frame=false" alt="Trophies" />
 </div>
 
 ---
