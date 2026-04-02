@@ -21,8 +21,8 @@
       <br />
       <img src="https://img.shields.io/badge/Status-Active%20&%20Coding-brightgreen?style=flat-square&logo=github" />
     </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9uJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+  <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpYmJueWtxZmx0ZzNqYWh4eG9pZ2xreWZpZ284eXh5eXB5Z3Y3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
